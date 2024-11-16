@@ -1,0 +1,13 @@
+/*
+  Appending custom SCSS variables will override the default ones in `_sass/addon/variables.scsss`
+*/
+$font-family-primary: 'Roboto', 'Arial', sans-serif;
+$font-family-secondary: 'Georgia', 'Times New Roman', serif;
+
+body {
+  font-family: $font-family-primary;
+}
+
+h2 {
+  font-family: $font-family-secondary;
+}

@@ -14,7 +14,9 @@ Additionally, I have a keen interest in topology and topological data analysis. 
 
 #### Recent Publication
 
-- A. Sinha and K. N. Chaudhury, "[On the Strong Convexity of PnP Regularization Using Linear Denoisers](https://ieeexplore.ieee.org/document/10706773)," in IEEE Signal Processing Letters, vol. 31, pp. 2790-2794, 2024 
+- A. Sinha and K. N. Chaudhury, "[FISTA Iterates Converge Linearly for Denoiser-Driven Regularization](https://arxiv.org/abs/2411.10808),"  SIAM Journal on Imaging Sciences, 2024 (*accepted*)
+
+- A. Sinha and K. N. Chaudhury, "[On the Strong Convexity of PnP Regularization Using Linear Denoisers](https://ieeexplore.ieee.org/document/10706773),"  IEEE Signal Processing Letters, vol. 31, pp. 2790-2794, 2024 
 
 #### Research Interests
 

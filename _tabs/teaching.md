@@ -4,7 +4,7 @@ order: 2
 ---
 ### IISc Teaching Duties
 
-#### (1) E0 298: Linear Algebra and Its Applications
+#### (1) E0 298: Linear Algebra and Its Applications (*August 2023 - December 2023*)
 
 I have worked as a full-time Teaching Assistant for the offline course 'E0 298: Linear Algebra and Its Applications' taught by Prof. Kunal Narayan Chaudhury. My responsibilities included conducting tutorial sessions, solving exam questions to assess the difficulty of the paper, and grading answer sheets and assignments.
 

@@ -2,13 +2,16 @@
 icon: fas fa-archive
 order: 2
 ---
-### IISc Teaching Duties
+
+### 📚 IISc Teaching Duties
 
 #### (1) E0 298: Linear Algebra and Its Applications (*August 2023 - December 2023*)
 
 I have worked as a full-time Teaching Assistant for the offline course 'E0 298: Linear Algebra and Its Applications' taught by Prof. Kunal Narayan Chaudhury. My responsibilities included conducting tutorial sessions, solving exam questions to assess the difficulty of the paper, and grading answer sheets and assignments.
 
-### Prime Ministers Research Fellowship Teaching Duties
+---
+
+### 🌟 Prime Minister Research Fellowship (PMRF) Teaching Duties  
 
 I am currently teaching two courses: Advanced Linear Algebra and Point Set Topology for Semester V and Semester VI students, respectively, at the Department of Mathematics, Maulana Azad College, Kolkata as part of the PMRF TAship scheme, conducted online. The Advanced Linear Algebra course is offered in the odd semester (August - January), while the Point Set Topology course is available in the even semester (February - July).
 
@@ -26,13 +29,12 @@ The course aims to introduce the students to the basic concepts and techniques o
 
 #### (3) Advanced Linear Algebra  (*December 2022 - January 2023*)
 
+---
 
+### 📖 Seminar on ‘Cayley Colour Graph: An Introduction to Topological Graph Theory’  
 
-### Seminar on ‘Cayley Colour Graph: An Introduction to Topological Graph Theory’	
-
-#### MAC MATH FEST, 2021
-
-*27 June, 2021*  
-*Department of Mathematics, Maulana Azad College, Kolkata*  
+#### **MAC MATH FEST, 2021**  
+📅 *27 June, 2021*  
+🏫 *Department of Mathematics, Maulana Azad College, Kolkata* 
 
 The seminar aimed to introduce some of the connections between graph theory and group theory to undergraduate mathematics students. We started by defining free groups and giving examples of how they can be constructed from words and letters. Then, we introduced the concept of Cayley colour graphs, which are labelled by group elements and have edges coloured by the group operation. We showed how Cayley colour graphs can be used to represent free groups and their subgroups. Next, we stated and proved Frucht's theorem, which says that every finite group is the automorphism group of some graph. This means that any finite group can be realized as the set of symmetries of a certain graph. We gave some examples of graphs and their automorphism groups to illustrate the theorem. Finally, we gave a brief overview of Cayley graphs, which are special kinds of Cayley colour graphs that have only one edge colour. We explained how Cayley graphs could be used to study the topology of groups and their actions on spaces.

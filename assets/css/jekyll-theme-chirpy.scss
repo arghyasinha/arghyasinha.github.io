@@ -1,0 +1,64 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+// $font-family-primary: 'Roboto', 'Arial', sans-serif;
+// $font-family-secondary: 'Georgia', 'Times New Roman', serif;
+//
+// body {
+//   font-family: $font-family-primary;
+// }
+//
+// h2 {
+//   font-family: $font-family-secondary;
+// }
+
+// $font-family-latex: 'Computer Modern', serif;
+
+
+
+// Import Merriweather font into SCSS
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+// Now use the font in your styles
+$font-family-latex: 'Merriweather', serif;
+body {
+  font-family: $font-family-latex;
+}
+
+// Define LaTeX-like font variables
+$latex-font: 'Times New Roman', Times, serif;  // for an approximation
+$latex-font-heading: 'Computer Modern', serif; // for headings, can use 'serif' for approximation
+
+// Apply LaTeX fonts to headings and paragraphs
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-latex;
+}
+
+p {
+  font-family: $font-family-latex;
+  line-height: 1.6;  // Optional: add line height for better readability
+}
+
+
+// Professional color palette for headings
+$h1-color: #6A7FDB; // Slate Blue
+$h2-color: #5A7684; // Steel Teal
+$h3-color: #B5A642; // Olive Gold
+$h4-color: #9E8C7A; // Dusty Taupe
+$h5-color: #815C67; // Muted Burgundy
+$h6-color: #707070; // Charcoal Gray
+
+// Apply colors to headings
+h1 { color: $h1-color; }
+h2 { color: $h2-color; }
+h3 { color: $h3-color; }
+h4 { color: $h4-color; }
+h5 { color: $h5-color; }
+h6 { color: $h6-color; }

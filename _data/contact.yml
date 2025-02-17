@@ -23,6 +23,11 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/arghya-sinha'                  # Fill with your Linkedin homepage
 #
+- type: google-scholar
+  icon: 'fa-brands fa-google-scholar'
+  url:  'https://scholar.google.com/citations?user=zsWyfY8AAAAJ&hl=en'                  # Fill with your stackoverflow homepage
+
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

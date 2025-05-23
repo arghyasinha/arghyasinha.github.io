@@ -2,6 +2,9 @@
 icon: fas fa-archive
 order: 1
 ---
+### 📅 2025
+
+(3) A. Sinha, B. Kumar, C. D. Athalye and K. N. Chaudhury, "[Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers](https://arxiv.org/abs/2505.15318)," IEEE Transactions on Signal Processing, 2025 ; [Preprint](https://arxiv.org/abs/2505.15318) ; [Github](https://github.com/arghyasinha/tsp-kernel-denoiser.git)
 
 ### 📅 2024  
 

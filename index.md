@@ -17,7 +17,7 @@ Additionally, I have a keen interest in **topology and topological data analysis
 
 #### **📚 Recent Publications**  
 
-- 📖 A. Sinha, B. Kumar, C. D. Athalye and K. N. Chaudhury, **"[Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers](https://arxiv.org/abs/2505.15318),"** *IEEE Transactions on Signal Processing, 2025*  
+- 📖 A. Sinha, B. Kumar, C. D. Athalye and K. N. Chaudhury, **"[Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers](https://ieeexplore.ieee.org/document/11015823),"** *IEEE Transactions on Signal Processing, 2025*  
 
 - 📖 A. Sinha and K. N. Chaudhury, **"[FISTA Iterates Converge Linearly for Denoiser-Driven Regularization](https://epubs.siam.org/doi/10.1137/24M1656530),"** *SIAM Journal on Imaging Sciences, vol. 18, issue 1, 2025*  
 

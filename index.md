@@ -14,6 +14,8 @@ My primary research is on **convex and nonconvex optimization** for the developm
 Additionally, I have a keen interest in **topology and topological data analysis**. For my master's project at [IIT Kanpur](https://www.iitk.ac.in/), I explored **embeddings of graphs on higher-dimensional manifolds**, under the supervision of [Prof. Bidyut Sanki](https://sites.google.com/view/homebidyut-iitk/home).  
 
 ---
+#### **News**
+- Recieved **Qualcomm Innovation Fellowship 2025** with Prof. Kunal N. Chaudhury.
 
 #### **📚 Recent Publications**  
 

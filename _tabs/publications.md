@@ -4,6 +4,8 @@ order: 1
 ---
 ### 📅 2025
 
+\[4\] A. Sinha, T. Mukherjee and K. N. Chaudhury, "[Viscosity Stabilized Plug-and-Play Reconstruction](https://arxiv.org/abs/2508.01441)," [Preprint](https://arxiv.org/abs/2508.01441)
+
 \[3\] A. Sinha, B. Kumar, C. D. Athalye and K. N. Chaudhury, "[Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers](https://ieeexplore.ieee.org/document/11015823)," IEEE Transactions on Signal Processing, 2025, doi: 10.1109/TSP.2025.3573044; [Preprint](https://arxiv.org/abs/2505.15318) ; [Github](https://github.com/arghyasinha/tsp-kernel-denoiser.git)
 
 ### 📅 2024  

@@ -2,6 +2,9 @@
 icon: fas fa-archive
 order: 1
 ---
+### 📅 2026
+\[5\] A. Sinha and K. N. Chaudhury, "Strong Convexity of (Kernel) Laplacian Regularization"; International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
+
 ### 📅 2025
 
 \[4\] A. Sinha, T. Mukherjee and K. N. Chaudhury, "[Viscosity Stabilized Plug-and-Play Reconstruction](https://arxiv.org/abs/2508.01441)," [Preprint](https://arxiv.org/abs/2508.01441)

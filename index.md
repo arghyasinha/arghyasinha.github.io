@@ -15,7 +15,7 @@ Additionally, I have a keen interest in **topology and topological data analysis
 
 ---
 #### **🗞️ News**
-- 🎉 Awarded the **Qualcomm Innovation Fellowship 2025 India**
+- 🎉 Awarded the <span style="color:#DAA520">**Qualcomm Innovation Fellowship 2025 India**</span>
 
 
 #### **📚 Recent Publications**  

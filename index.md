@@ -20,7 +20,7 @@ Additionally, I have a keen interest in **topology and topological data analysis
 
 #### **📚 Recent Publications**  
 
-- 📖 A. Sinha and K. N. Chaudhury, **Strong Convexity of (Kernel) Laplacian Regularization**,  *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026*
+- 📖 A. Sinha and K. N. Chaudhury, <span style="color:#6495ED">**Strong Convexity of (Kernel) Laplacian Regularization**</span>,  *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026*
 
 - 📖 A. Sinha, B. Kumar, C. D. Athalye and K. N. Chaudhury, **"[Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers](https://ieeexplore.ieee.org/document/11015823),"** *IEEE Transactions on Signal Processing, 2025*  
 

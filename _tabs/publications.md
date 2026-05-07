@@ -3,6 +3,7 @@ icon: fas fa-archive
 order: 1
 ---
 ### 📅 2026
+\[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, "Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"; International Conference on Machine Learning (ICML), 2026.
 \[5\] A. Sinha and K. N. Chaudhury, <span style="color:#4682B4">"Strong Convexity of (Kernel) Laplacian Regularization"</span>; International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 
 ### 📅 2025

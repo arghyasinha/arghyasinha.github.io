@@ -16,7 +16,7 @@ Additionally, I have a keen interest in **topology and topological data analysis
 ---
 #### **🗞️ News**
 - **Paper accepted at ICML 2026!** 🎉  
-**Trainable Nonexpansive Denoisers for Contractive Image Reconstruction**  
+**[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction]{https://icml.cc/virtual/2026/poster/63206}**  
 *Arghya Sinha · Aditya Banerjee · Trishit Mukherjee · Kunal Narayan Chaudhury*
 - 🎉 Awarded the <span style="color:#DAA520">**Qualcomm Innovation Fellowship 2025 India**</span>
 

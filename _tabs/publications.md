@@ -5,7 +5,7 @@ order: 1
 ### 📅 2026
 \[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, ["Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"](https://icml.cc/virtual/2026/poster/63206); International Conference on Machine Learning (ICML), 2026.
 
-\[5\] A. Sinha and K. N. Chaudhury, <span style="color:#4682B4">"Strong Convexity of (Kernel) Laplacian Regularization"</span>; International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
+\[5\] A. Sinha and K. N. Chaudhury, ["Strong Convexity of (Kernel) Laplacian Regularization"](https://ieeexplore.ieee.org/document/11462403); International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 
 ### 📅 2025
 

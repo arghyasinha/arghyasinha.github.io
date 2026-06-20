@@ -17,13 +17,12 @@ Before joining IISc, I completed my master's in Mathematics at [IIT Kanpur](http
 ---
 #### **🗞️ News**
 - **June 2026** — 🎉 <span style="color:#DAA520">**Paper accepted at ECCV 2026!**</span>  
-  **Stabilizing Deep Reconstruction Operators with Contractive Anchoring**  
-  *Arghya Sinha · Trishit Mukherjee · Kunal N. Chaudhury*
+   <span style="color:#6495ED">**Stabilizing Deep Reconstruction Operators with Contractive Anchoring**</span>  
+ *Arghya Sinha · Trishit Mukherjee · Kunal N. Chaudhury*
 
 - **May 2026** — 🎉 <span style="color:#DAA520">**Paper accepted at ICML 2026!**</span>  
-  **[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](https://icml.cc/virtual/2026/poster/63206)** 
-
-  *Arghya Sinha · Aditya Banerjee · Trishit Mukherjee · Kunal N. Chaudhury*
+  **[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](https://icml.cc/virtual/2026/poster/63206)**  
+*Arghya Sinha · Aditya Banerjee · Trishit Mukherjee · Kunal N. Chaudhury*
 
 - **August 2025** — 🎉 Awarded the <span style="color:#DAA520">**Qualcomm Innovation Fellowship 2025 India**</span>.
 

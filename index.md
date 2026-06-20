@@ -9,9 +9,10 @@ order: 1
 
 I am a [Prime Minister Research Fellow (PMRF)](https://www.pmrf.in/) at the [Indian Institute of Science](https://www.iisc.ac.in/), currently engaged in the [Lab of Imaging Sciences (LISA)](https://sites.google.com/site/kunalnchaudhury/group) within the *Department of Electrical Engineering, IISc*, under the guidance of [Prof. Kunal Narayan Chaudhury](https://sites.google.com/site/kunalnchaudhury/home).  
 
-My primary research is on **convex and nonconvex optimization** for the development of **novel algorithms** that help in improved **image reconstruction**. We use **supervised learning** as well as **classical frameworks** to design **data-driven priors** for regularization in a large class of inverse problem frameworks such as superresolution and deblurring. We establish convergence guarantees for various algorithms using optimization and algebraic approach to obtain stable and high-quality reconstructions.
+My research lies at the intersection of **computational imaging**, **inverse problems**, **optimization**, and **machine learning**. I develop reconstruction algorithms that are both practically effective and mathematically robust, with a focus on integrating learned models into iterative reconstruction methods without compromising stability or interpretability. Much of my recent work focuses on deep denoiser-driven regularization, trainable nonexpansive denoisers, and stable iterative algorithms for inverse problems such as image deblurring and super-resolution.
 
-Additionally, I have a keen interest in **topology and topological data analysis**. For my master's project at [IIT Kanpur](https://www.iitk.ac.in/), I explored **embeddings of graphs on higher-dimensional manifolds**, under the supervision of [Prof. Bidyut Sanki](https://sites.google.com/view/homebidyut-iitk/home).  
+Before joining IISc, I completed my master's in Mathematics at [IIT Kanpur](https://www.iitk.ac.in/), where I worked on embeddings of graphs on higher-dimensional manifolds under the supervision of [Prof. Bidyut Sanki](https://sites.google.com/view/homebidyut-iitk/home). I continue to have a broader interest in topology and related topics.
+ 
 
 ---
 #### **🗞️ News**
@@ -21,6 +22,7 @@ Additionally, I have a keen interest in **topology and topological data analysis
 
 - **May 2026** — 🎉 <span style="color:#DAA520">**Paper accepted at ICML 2026!**</span>  
   **[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](https://icml.cc/virtual/2026/poster/63206)** 
+
   *Arghya Sinha · Aditya Banerjee · Trishit Mukherjee · Kunal N. Chaudhury*
 
 - **August 2025** — 🎉 Awarded the <span style="color:#DAA520">**Qualcomm Innovation Fellowship 2025 India**</span>.

@@ -3,7 +3,7 @@ icon: fas fa-archive
 order: 1
 ---
 ### 📅 2026
-\[7\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, <span style="color:#6495ED">"Stabilizing Deep Reconstruction Operators with Contractive Anchoring"</span>; European Conference on Computer Vision (ECCV), 2026.
+\[7\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, ["Stabilizing Deep Reconstruction Operators with Contractive Anchoring"]("https://arxiv.org/abs/2607.23341") ; European Conference on Computer Vision (ECCV), 2026; [Preprint]("https://arxiv.org/abs/2607.23341") ; [Github]("https://github.com/trishitmg/costa")
 
 \[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, ["Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"](https://icml.cc/virtual/2026/poster/63206); International Conference on Machine Learning (ICML), 2026; [Github](https://github.com/arghyasinha/nectr.git).
 

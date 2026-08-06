@@ -9,20 +9,17 @@ order: 1
 
 <p align="center">
   <a href="https://github.com/arghyasinha" aria-label="GitHub">
-    <i class="fab fa-github"></i>
+    <i class="fa-brands fa-github"></i>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:arghyasinha@iisc.ac.in" aria-label="Email">
-    <i class="fas fa-envelope"></i>
-  </a>
+    <i class="fa-solid fa-envelope"></i>  </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arghya-sinha" aria-label="LinkedIn">
-    <i class="fab fa-linkedin"></i>
-  </a>
+    <i class="fa-brands fa-square-linkedin"></i>  </a>
   &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=zsWyfY8AAAAJ&hl=en" aria-label="Google Scholar">
-    <i class="fa-brands fa-google-scholar"></i>
-  </a>
+    <i class="fa-brands fa-google-scholar"></i>  </a>
 </p>
 
 I am a [Prime Minister Research Fellow (PMRF)](https://www.pmrf.in/) at the [Indian Institute of Science](https://www.iisc.ac.in/), currently engaged in the [Lab of Imaging Sciences (LISA)](https://sites.google.com/site/kunalnchaudhury/group) within the *Department of Electrical Engineering, IISc*, under the guidance of [Prof. Kunal Narayan Chaudhury](https://sites.google.com/site/kunalnchaudhury/home).  

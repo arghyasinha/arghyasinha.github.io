@@ -13,7 +13,9 @@ order: 1
   </a>
   &nbsp;&nbsp;
   <a href="mailto:arghyasinha@iisc.ac.in" aria-label="Email">
-    <i class="fa-regular fa-envelope"></i>  &nbsp;&nbsp;
+    <i class="fa-regular fa-envelope"></i>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arghya-sinha" aria-label="LinkedIn">
     <i class="fa-brands fa-square-linkedin"></i>  </a>
   &nbsp;&nbsp;

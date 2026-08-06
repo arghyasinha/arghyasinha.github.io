@@ -62,3 +62,19 @@ h3 { color: $h3-color; }
 h4 { color: $h4-color; }
 h5 { color: $h5-color; }
 h6 { color: $h6-color; }
+
+
+a {
+  color: #6495ED;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6495ED;
+}
+
+a:hover,
+a:focus {
+  color: #DAA520;
+  text-decoration: underline;
+}

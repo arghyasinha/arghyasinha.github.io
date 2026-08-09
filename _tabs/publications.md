@@ -5,7 +5,7 @@ order: 1
 ### 📅 2026
 \[7\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, ["Stabilizing Deep Reconstruction Operators with Contractive Anchoring"](https://arxiv.org/abs/2607.23341) ; European Conference on Computer Vision (ECCV), 2026; [Preprint](https://arxiv.org/abs/2607.23341) ; [Github](https://github.com/trishitmg/costa)
 
-\[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, ["Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"](https://icml.cc/virtual/2026/poster/63206); International Conference on Machine Learning (ICML), 2026; [Preprint](https://arxiv.org/abs/2607.23347) ; [Github](https://github.com/arghyasinha/nectr.git).
+\[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, ["Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"](https://icml.cc/virtual/2026/poster/63206); International Conference on Machine Learning (ICML), 2026; [Preprint](https://arxiv.org/abs/2607.23347) ; [Github](https://github.com/arghyasinha/nectr.git); [gist.science](https://gist.science/paper/2607.23347).
 
 \[5\] A. Sinha and K. N. Chaudhury, ["Strong Convexity of (Kernel) Laplacian Regularization"](https://ieeexplore.ieee.org/document/11462403); International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 

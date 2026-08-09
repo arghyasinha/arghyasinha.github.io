@@ -8,23 +8,23 @@ order: 1
 \[7\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, **"Stabilizing Deep Reconstruction Operators with Contractive Anchoring"**, *European Conference on Computer Vision (ECCV)*, 2026.
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://arxiv.org/abs/2607.23341" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
-  <a href="https://github.com/trishitmg/costa" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
+  <a href="https://arxiv.org/abs/2607.23341" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
+  <a href="https://github.com/trishitmg/costa" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
 </span>
 
 \[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, **"Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"**, *International Conference on Machine Learning (ICML)*, 2026.
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://icml.cc/virtual/2026/poster/63206" style="text-decoration:none; margin-right:6px;"><code style="background:#eef2ff; color:#3730a3; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">ICML Poster</code></a>
-  <a href="https://arxiv.org/abs/2607.23347" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
-  <a href="https://github.com/arghyasinha/nectr" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
-  <a href="https://gist.science/paper/2607.23347" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">gist.science</code></a>
+  <a href="https://icml.cc/virtual/2026/poster/63206" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(99,102,241,0.2); color:#a5b4fc; border:1px solid rgba(129,140,248,0.3); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">ICML Poster</code></a>
+  <a href="https://arxiv.org/abs/2607.23347" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
+  <a href="https://github.com/arghyasinha/nectr" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
+  <a href="https://gist.science/paper/2607.23347" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">gist.science</code></a>
 </span>
 
 \[5\] A. Sinha and K. N. Chaudhury, **"Strong Convexity of (Kernel) Laplacian Regularization"**, *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://ieeexplore.ieee.org/document/11462403" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">IEEE Xplore</code></a>
+  <a href="https://ieeexplore.ieee.org/document/11462403" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">IEEE Xplore</code></a>
 </span>
 
 ### 📅 2025
@@ -32,15 +32,15 @@ order: 1
 \[4\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, **"Viscosity Stabilized Plug-and-Play Reconstruction"**, 2025.
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://arxiv.org/abs/2508.01441" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
+  <a href="https://arxiv.org/abs/2508.01441" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
 </span>
 
-\[3\] A. Sinha, B. Kumar, C. D. Athalye, and K. N. Chaudhury, **"Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers"**, *IEEE Transactions on Signal Processing*, vol. 73, 2025. <span style="color:#CD5C5C; font-size:13px; font-weight:500;">(Accepted for presentation at ICASSP 2026)</span>
+\[3\] A. Sinha, B. Kumar, C. D. Athalye, and K. N. Chaudhury, **"Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers"**, *IEEE Transactions on Signal Processing*, vol. 73, 2025. <span style="color:#f87171; font-size:13px; font-weight:500;">(Accepted for presentation at ICASSP 2026)</span>
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://ieeexplore.ieee.org/document/11015823" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">IEEE Xplore</code></a>
-  <a href="https://arxiv.org/abs/2505.15318" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
-  <a href="https://github.com/arghyasinha/tsp-kernel-denoiser" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
+  <a href="https://ieeexplore.ieee.org/document/11015823" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">IEEE Xplore</code></a>
+  <a href="https://arxiv.org/abs/2505.15318" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
+  <a href="https://github.com/arghyasinha/tsp-kernel-denoiser" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
 </span>
 
 ### 📅 2024
@@ -48,15 +48,15 @@ order: 1
 \[2\] A. Sinha and K. N. Chaudhury, **"FISTA Iterates Converge Linearly for Denoiser-Driven Regularization"**, *SIAM Journal on Imaging Sciences*, vol. 18, issue 1, 2025.
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://epubs.siam.org/doi/10.1137/24M1656530" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">SIAM Journal</code></a>
-  <a href="https://arxiv.org/abs/2411.10808" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
-  <a href="https://github.com/arghyasinha/PnP-FISTA" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
+  <a href="https://epubs.siam.org/doi/10.1137/24M1656530" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">SIAM Journal</code></a>
+  <a href="https://arxiv.org/abs/2411.10808" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
+  <a href="https://github.com/arghyasinha/PnP-FISTA" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
 </span>
 
-\[1\] A. Sinha and K. N. Chaudhury, **"On the Strong Convexity of PnP Regularization Using Linear Denoisers"**, *IEEE Signal Processing Letters*, vol. 31, pp. 2790-2794, 2024. <span style="color:#CD5C5C; font-size:13px; font-weight:500;">(Accepted for presentation at ICASSP 2025)</span>
+\[1\] A. Sinha and K. N. Chaudhury, **"On the Strong Convexity of PnP Regularization Using Linear Denoisers"**, *IEEE Signal Processing Letters*, vol. 31, pp. 2790-2794, 2024. <span style="color:#f87171; font-size:13px; font-weight:500;">(Accepted for presentation at ICASSP 2025)</span>
 <br>
 <span style="display: inline-block; margin-top: 6px;">
-  <a href="https://ieeexplore.ieee.org/abstract/document/10706773" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">IEEE Xplore</code></a>
-  <a href="https://arxiv.org/abs/2411.01027" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
-  <a href="https://github.com/arghyasinha/PnP-StrongConvexity" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10706773" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">IEEE Xplore</code></a>
+  <a href="https://arxiv.org/abs/2411.01027" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
+  <a href="https://github.com/arghyasinha/PnP-StrongConvexity" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
 </span>

@@ -5,7 +5,14 @@ order: 1
 ### 📅 2026
 \[7\] A. Sinha, T. Mukherjee, and K. N. Chaudhury, ["Stabilizing Deep Reconstruction Operators with Contractive Anchoring"](https://arxiv.org/abs/2607.23341) ; European Conference on Computer Vision (ECCV), 2026; [Preprint](https://arxiv.org/abs/2607.23341) ; [Github](https://github.com/trishitmg/costa)
 
-\[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, ["Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"](https://icml.cc/virtual/2026/poster/63206); International Conference on Machine Learning (ICML), 2026; [Preprint](https://arxiv.org/abs/2607.23347) ; [Github](https://github.com/arghyasinha/nectr.git); [gist.science](https://gist.science/paper/2607.23347).
+\[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, **"Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"**, *International Conference on Machine Learning (ICML)*, 2026.
+<br>
+<span style="display: inline-block; margin-top: 6px;">
+  <a href="https://icml.cc/virtual/2026/poster/63206" style="text-decoration:none; margin-right:6px;"><code style="background:#eef2ff; color:#3730a3; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">ICML Poster</code></a>
+  <a href="https://arxiv.org/abs/2607.23347" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">arXiv</code></a>
+  <a href="https://github.com/arghyasinha/nectr" style="text-decoration:none; margin-right:6px;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">GitHub</code></a>
+  <a href="https://gist.science/paper/2607.23347" style="text-decoration:none;"><code style="background:#f3f4f6; color:#1f2937; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:600;">gist.science</code></a>
+</span>
 
 \[5\] A. Sinha and K. N. Chaudhury, ["Strong Convexity of (Kernel) Laplacian Regularization"](https://ieeexplore.ieee.org/document/11462403); International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 

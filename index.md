@@ -7,19 +7,22 @@ order: 1
 ##### [Department of Computational and Data Sciences](https://cds.iisc.ac.in/)  
 ##### [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/)  
 
+
 <p align="left">
   <a href="https://scholar.google.com/citations?user=zsWyfY8AAAAJ&hl=en" aria-label="Google Scholar">
-    <i class="fa-brands fa-google-scholar"></i>  </a>
+    <i class="fa-brands fa-google-scholar fa-lg"></i>
+  </a>
   &nbsp;&nbsp;
   <a href="https://github.com/arghyasinha" aria-label="GitHub">
-    <i class="fa-brands fa-github"></i>
+    <i class="fa-brands fa-github fa-lg"></i>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arghya-sinha" aria-label="LinkedIn">
-    <i class="fa-brands fa-square-linkedin"></i>  </a>
-    &nbsp;&nbsp;
+    <i class="fa-brands fa-square-linkedin fa-lg"></i>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:arghyasinha@iisc.ac.in" aria-label="Email">
-    <i class="fa-regular fa-envelope"></i>
+    <i class="fa-regular fa-envelope fa-lg"></i>
   </a>
 </p>
 

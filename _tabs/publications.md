@@ -10,6 +10,7 @@ order: 1
 <span style="display: inline-block; margin-top: 6px;">
   <a href="https://arxiv.org/abs/2607.23341" style="text-decoration:none; margin-right:6px;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">arXiv</code></a>
   <a href="https://github.com/trishitmg/costa" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">GitHub</code></a>
+  <a href="https://gist.science/paper/2607.23341" style="text-decoration:none;"><code style="background:rgba(255,255,255,0.08); color:#e2e8f0; border:1px solid rgba(255,255,255,0.15); padding:3px 8px; border-radius:4px; font-size:12px; font-weight:500;">gist.science</code></a>
 </span>
 
 \[6\] A. Sinha, A. Banerjee, T. Mukherjee, and K. N. Chaudhury, <span style="color:#6495ED; font-weight:bold;">"Trainable Nonexpansive Denoisers for Contractive Image Reconstruction"</span>, *International Conference on Machine Learning (ICML)*, 2026.
